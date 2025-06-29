@@ -1,12 +1,12 @@
   {
-    "targetClientVersion": 1,
-    "targetGameFilesVersion": 2,
-    "urlClient": "http://yourserver.com/files/client.zip",
-    "urlFiles": "http://yourserver.com/files/gamefiles.zip",
-    "urlFilesUpdate": "http://yourserver.com/files/update.zip",
-    "urlForum": "http://forum.yourproject.com",
-    "urlDonate": "http://donate.yourproject.com",
-    "urlVKontakte": "https://vk.com/yourpage",
-    "urlDiscord": "https://discord.gg/yourinvite",
-    "urlYoutube": "https://youtube.com/@yourchannel"
+    "clientVersionCode": 1,
+    "gameFilesVersionCode": 2,
+    "URL_CLIENT": "http://yourserver.com/files/client.zip",
+    "URL_GAME_FILES": "http://yourserver.com/files/gamefiles.zip",
+    "URL_GAME_FILES_UPD": "http://yourserver.com/files/update.zip",
+    "URL_FORUM": "http://forum.yourproject.com",
+    "URL_DONATE": "http://donate.yourproject.com",
+    "URL_VK": "https://vk.com/yourpage",
+    "URL_DISCORD": "https://discord.gg/yourinvite",
+    "URL_YOUTUBE": "https://youtube.com/@yourchannel"
   }
