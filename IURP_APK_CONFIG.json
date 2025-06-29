@@ -1,6 +1,6 @@
   {
-    "targetClientVersion": "1.0.3",
-    "targetGameFilesVersion": "2.1",
+    "targetClientVersion": "1",
+    "targetGameFilesVersion": 2,
     "urlClient": "http://yourserver.com/files/client.zip",
     "urlFiles": "http://yourserver.com/files/gamefiles.zip",
     "urlFilesUpdate": "http://yourserver.com/files/update.zip",
