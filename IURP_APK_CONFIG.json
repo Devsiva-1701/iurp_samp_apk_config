@@ -1,5 +1,5 @@
   {
-    "targetClientVersion": "1",
+    "targetClientVersion": 1,
     "targetGameFilesVersion": 2,
     "urlClient": "http://yourserver.com/files/client.zip",
     "urlFiles": "http://yourserver.com/files/gamefiles.zip",
