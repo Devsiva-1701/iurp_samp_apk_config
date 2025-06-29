@@ -1,0 +1,12 @@
+  {
+    "targetClientVersion": "1.0.3",
+    "targetGameFilesVersion": "2.1",
+    "urlClient": "http://yourserver.com/files/client.zip",
+    "urlFiles": "http://yourserver.com/files/gamefiles.zip",
+    "urlFilesUpdate": "http://yourserver.com/files/update.zip",
+    "urlForum": "http://forum.yourproject.com",
+    "urlDonate": "http://donate.yourproject.com",
+    "urlVKontakte": "https://vk.com/yourpage",
+    "urlDiscord": "https://discord.gg/yourinvite",
+    "urlYoutube": "https://youtube.com/@yourchannel"
+  }
