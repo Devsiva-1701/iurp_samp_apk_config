@@ -2,7 +2,7 @@
     "clientVersionCode": 1,
     "gameFilesVersionCode": 2,
     "URL_CLIENT": "http://yourserver.com/files/client.zip",
-    "URL_GAME_FILES": "http://yourserver.com/files/gamefiles.zip",
+    "URL_GAME_FILES": "https://github.com/Devsiva-1701/iurp_samp_apk_config/releases/download/IURP_GAME_FILE_SAMP_AND/game.zip",
     "URL_GAME_FILES_UPD": "http://yourserver.com/files/update.zip",
     "URL_FORUM": "http://forum.yourproject.com",
     "URL_DONATE": "http://donate.yourproject.com",
