@@ -1,12 +1,11 @@
-  {
-    "clientVersionCode": 1,
-    "gameFilesVersionCode": 2,
-    "URL_CLIENT": "http://yourserver.com/files/client.zip",
-    "URL_GAME_FILES": "https://github.com/Devsiva-1701/iurp_samp_apk_config/releases/download/IURP_GAME_FILE_SAMP_AND/game.zip",
-    "URL_GAME_FILES_UPD": "http://yourserver.com/files/update.zip",
-    "URL_FORUM": "http://forum.yourproject.com",
-    "URL_DONATE": "http://donate.yourproject.com",
-    "URL_VK": "https://vk.com/yourpage",
-    "URL_DISCORD": "https://discord.gg/yourinvite",
-    "URL_YOUTUBE": "https://youtube.com/@yourchannel"
-  }
+{
+    "client_config": {
+        "app_server_status" : true,
+        "app_beta_status" : false,
+        "game_version" : "1.0.0",
+        "game_url" : "https://samp-mobile.shop/launcherarizona.apk",
+        "version_code": 130,
+        "url_launcher": "https://samp-mobile.shop/launcher.apk",
+        "url_cache_files": "https://samp-mobile.shop/files.json"
+    }
+}
