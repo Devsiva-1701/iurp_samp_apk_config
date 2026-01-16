@@ -10,6 +10,8 @@
         "game_file_pvr": "https://pub-8dec123a004f498cad321e979aadd813.r2.dev/files-PVR.zip",
         "url_launcher": "https://samp-mobile.shop/launcher.apk",
         "url_cache_files": "https://samp-mobile.shop/files.json",
-        "paths": []
+        "paths": [
+            "anim/anim.img"
+        ]
     }
 }
